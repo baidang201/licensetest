@@ -1,6 +1,4 @@
-"Project name
-项目名称"	" Project introduction 
-项目介绍"	Tracks
+```
 CognideX	"CognideX is a decentralized data marketplace built within the Polkadot ecosystem. The project incentivizes users with CGDX tokens based on the quality of the data they provide. It uses blockchain technology for data verification and privacy preservation.
 No grant received from Web3 Foundation yet."	
 Dazhbog	Dazhbog is a decentralized perpetual futures exchange built on Polkadot for the Polkadot Prodigy hackathon. It utilizes ink! smart contracts to facilitate peer-to-peer margin trading of perpetual contracts.	"Category 2: (Hot) Smart Contract, DeFi, AI, Layer2, DePIN, etc."
@@ -105,4 +103,5 @@ Attornato	Attornato is a decentralized platform that allows public users to cust
 Polkarena	Passionate Full Stack Developer and Blockchain Enthusiast with a strong foundation in Computer Science. I thrive on solving complex challenges and creating innovative solutions that leverage cutting-edge technologies. Proficient in JavaScript, Python, SQL, and Solidity, I excel in developing web applications and decentralized platforms. My experience with frameworks like Django, NextJS, and Flask, coupled with my expertise in database management (MySQL, SQLite, MongoDB), empowers me to build scalable and efficient systems.	
 TBD	I am currently working with Polkassembly which is a polkadot.js governance platform and learning alot of new thing regarding substrate	
 djibike 电加单车	djibike，用web3技术赋能升级骑行产品、骑行比赛及活动	
-BubbleDot	BubbleDOT is an AI-powered coding assistant that can generate entire project folders; simplify the process of creating, testing, and deploying blockchain applications, leveraging AI to streamline every step from smart contract development to Polkadot deployment.	
+BubbleDot	BubbleDOT is an AI-powered coding assistant that can generate entire project folders; simplify the process of creating, testing, and deploying blockchain applications, leveraging AI to streamline every step from smart contract development to Polkadot deployment.
+```
